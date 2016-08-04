@@ -1,0 +1,40 @@
+_repo: Five-Little-Peppers-and-How-They-Grew_2770
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sidney, Margaret
+    alias: Sydney, Margaret
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '307'
+    url: http://www.gutenberg.org/2009/agents/307
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Sidney
+description: ''
+gutenberg_bookshelf:
+- Children's Book Series
+- Children's Literature
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fatherless families -- Juvenile fiction'
+- !lcsh 'Five Little Peppers (Fictitious characters) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Poor -- Juvenile fiction'
+- !lcsh 'Mothers -- Juvenile fiction'
+- !lcsh 'Birthdays -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Sick -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- GITenberg
+title: Five Little Peppers and How They Grew
+url: http://www.gutenberg.org/ebooks/2770
